@@ -1,0 +1,25 @@
+[
+  {
+    "constant": false,
+    "inputs": [
+      {
+        "name": "param1",
+        "type": "uint256"
+      },
+      {
+        "name": "param2",
+        "type": "string"
+      }
+    ],
+    "name": "myFunction",
+    "outputs": [
+      {
+        "name": "output1",
+        "type": "bool"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
